@@ -7,6 +7,7 @@ TwitterやYoutubeでは語れないことをつらつらなんでも書いてい
 
 
 # 最新の記事
+* [2022/01/16 クソどうでもいい話なんだけど](/2022/20220116.md)
 * [2022/01/10 ホロのサバゲー配信について](/2022/20220110.md)
 
 
@@ -27,7 +28,7 @@ TwitterやYoutubeでは語れないことをつらつらなんでも書いてい
 
 
 ***
-::Project= Web Operation Document  
+::Project= My Blog  
 ::Admin= Korei (@korei-xlix)  
 ::github= https://github.com/korei-xlix/  
 ::Homepage= https://koreixlix.wixsite.com/profile  
